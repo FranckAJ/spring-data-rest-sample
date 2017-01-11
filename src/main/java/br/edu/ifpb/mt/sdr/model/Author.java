@@ -6,6 +6,21 @@ import javax.persistence.Id;
 
 import org.hibernate.validator.constraints.NotBlank;
 
+/**
+ * 
+ * 
+ * <p>
+ * <b> Auhtor </b>
+ * </p>
+ *
+ * <p>
+ * represents the entity of business author
+ * </p>
+ * 
+ * 
+ * @author <a href="https://github.com/FranckAJ">Franck Aragão</a>
+ *
+ */
 @Entity
 public class Author {
 
