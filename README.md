@@ -1,5 +1,5 @@
 # Spring Data Rest Sample
-
+Sample project with spring boot, spring data rest and spring security
 
 #USAGE
 
