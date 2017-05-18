@@ -1,7 +1,7 @@
 # Spring Data Rest Sample
 Sample project with spring boot, spring data rest and spring security
 
-#USAGE
+# USAGE
 
 This project saves data in memory with the H2 Database.
 
